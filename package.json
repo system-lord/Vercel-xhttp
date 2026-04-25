@@ -1,9 +1,7 @@
 {
-  "name": "vercel-xhttp",
+  "name": "vless-vercel-xhttp",
   "version": "1.0.0",
-  "description": "XHTTP VLESS proxy on Vercel",
-  "main": "api/index.js",
   "dependencies": {
-    "node-xhttp": "^1.0.3"
+    "ws": "^8.16.0"
   }
 }
